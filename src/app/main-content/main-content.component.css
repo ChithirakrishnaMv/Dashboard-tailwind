@@ -1,0 +1,14 @@
+#cards{
+    display: flex;
+    /* gap: 20px; */
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+}
+#parent{
+    display: flex;
+    justify-content: space-evenly;
+}
+mat-card{
+    border-radius: 15px;
+}
